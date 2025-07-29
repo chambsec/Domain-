@@ -1,7 +1,7 @@
 
 # 🔗 My Self-Hosted LittleLink Site – `chamb.dev`
 
-This project is a self-hosted version of **[LittleLink](https://github.com/sethcottle/littlelink)** — a lightweight, open-source alternative to Linktree — deployed using Docker and connected to my custom domain, [chamb.dev](https://chamb.dev).
+This project is a self-hosted version of **[LittleLink](https://littlelink.io/)** — a lightweight, open-source alternative to Linktree — deployed using Docker and connected to my custom domain, [chamb.dev](https://chamb.dev).
 
 I cloned the original LittleLink repository, customized the layout, and containerized the app using Docker for easy local and remote deployment. The site is hosted through **GitHub Pages** and mapped to my **GoDaddy domain** using proper DNS records.
 
